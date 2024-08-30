@@ -47,4 +47,12 @@ export const NAMES = [
         NAME: 'GLENN',
         URL: null
     },
+    {
+        NAME: 'YEN',
+        URL: 'https://ucarecdn.com/930504bd-379c-44e2-972d-265833d22b8c/-/preview/921x911/'
+    },
+    {
+        NAME: 'CHA',
+        URL: 'https://ucarecdn.com/84b7acdf-7d98-4bda-a57c-d6cdb2b40dff/-/preview/958x911/'
+    }
 ]
